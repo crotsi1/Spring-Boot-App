@@ -1,0 +1,30 @@
+body {
+    padding-top: 5rem;
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+h1{
+    color:#0000FF;
+}
+
+h2{
+    color:#FF0000;
+}
+.instagamButton{
+    background-color: #907efe;
+    -moz-border-radius:28px;
+    -webkit-border-radius:28px;
+    border-radius:28px;
+    border:1px solid #18ab29;
+    display:inline-block;
+    cursor:pointer;
+    color: #67ff00;
+    font-family:Arial;
+    font-size:17px;
+    padding:4px 8px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+}
